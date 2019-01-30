@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TpSecurite.adminForm">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAOAQABAAAQCIAABGANA6AACAEHCEAQAACCA=</HashCode>
+      <FileName>adminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.Users">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQCAAAAAAgQAAAgAAAAABEAAAAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.changePasswordForm">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABABQAAACAAAACAAAaAACAAGAAAAAAACA=</HashCode>
+      <FileName>changePasswordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.clientForm">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAoAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>clientForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.codeInformation">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAABAAAACAAAACAAAAAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>codeInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.DB">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAAAAIAAAAAABAAAAAAAABAAAEAAAAACAEQA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.EmailService">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmailService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.Form1">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAA4AAAAAHAAAQAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.loginForm">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAAAACAAADAAAACAAAACAAIAAAAAEGAAAQBAAAA=</HashCode>
+      <FileName>loginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.Md5">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Md5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.Program">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TpSecurite.registerForm">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARwAAAACAAADAAAACAAAECAGQAgCAEEGABQYgAQAA=</HashCode>
+      <FileName>registerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
